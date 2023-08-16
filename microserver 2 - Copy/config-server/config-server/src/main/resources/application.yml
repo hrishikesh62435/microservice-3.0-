@@ -1,0 +1,6 @@
+server:
+  port: 8077
+
+spring:
+  profiles:
+    active: native
